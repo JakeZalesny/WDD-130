@@ -1,0 +1,9 @@
+.pink {
+  color: pink;
+  font-size: 100%;
+}
+
+#small_purple {
+  font-size: 50%;
+  color: purple; /*ID takes presidence */
+}
