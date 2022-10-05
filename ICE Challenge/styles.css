@@ -1,0 +1,43 @@
+#white-text {
+  color: white;
+}
+
+.center-align {
+  text-align: center;
+}
+
+.on-hover {
+  color: black;
+}
+
+.pink-background {
+  background-color: #fca6c9;
+}
+
+.main-body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#font-weight-bold {
+  font-weight: bold;
+}
+
+.resize-img {
+  max-width: 10%;
+  max-height: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
+}
+
+#center-padding {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.paragraph-margins {
+  margin-left: 42%;
+  margin-right: 40%;
+}
