@@ -1,0 +1,48 @@
+#section-one {
+  background-color: orange;
+  width: 50%;
+}
+
+#section-two {
+  background-color: green;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#section-three {
+  background-color: red;
+  width: 50%;
+  margin-left: auto;
+}
+#section-four {
+  background-color: purple;
+  width: 50%;
+  margin: 0 auto;
+}
+h2:nth-of-type(1) {
+  text-align: left;
+}
+
+h2:nth-of-type(2) {
+  text-align: center;
+}
+
+h2:nth-of-type(3) {
+  text-align: right;
+}
+
+.block4 h2:nth-of-type(1) {
+  text-align: right;
+}
+
+.block4 h2:nth-of-type(2) {
+  text-align: center;
+}
+
+.block4 h2:nth-of-type(3) {
+  text-align: left;
+}
+
+.block4 h2:nth-of-type(4) {
+  text-align: left;
+}
